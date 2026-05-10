@@ -53,7 +53,7 @@ export default function Footer() {
                 </Link>
               </div>
             </div>
-            <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
+            <div className="flex items-end justify-between w-full">
               <img
                 src="/Blossom-wordmark-negativo.svg"
                 alt="Blossom"
