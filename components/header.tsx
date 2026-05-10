@@ -30,7 +30,8 @@ export default function Header() {
           <img
             src={scrolled ? "/Blossom-reduccion-positivo.png" : "/Blossom-reduccion-negativo.png"}
             alt="Blossom"
-            height="40"
+            height="32"
+            style={{ objectFit: "contain" }}
             className="transition-all duration-300"
           />
         </div>
