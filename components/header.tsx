@@ -28,9 +28,10 @@ export default function Header() {
         {/* Logo — centrado absoluto */}
         <div className="absolute left-1/2 -translate-x-1/2">
           <img
-            src={scrolled ? "/Blossom-reduccion-positivo.svg" : "/Blossom-reduccion-negativo.png"}
+            src={scrolled ? "/Blossom-reduccion-positivo.svg" : "/Blossom-reduccion-negativo.svg"}
             alt="Blossom"
-            height="48"
+            height="56"
+            width="38"
             style={{ objectFit: "contain" }}
             className="transition-all duration-300"
           />
