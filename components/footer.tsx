@@ -60,7 +60,7 @@ export default function Footer() {
                 className="w-auto mt-4 sm:mt-6 lg:mt-10"
                 style={{ height: "clamp(60px, 12vw, 180px)" }}
               />
-              <p className="text-white text-sm sm:text-base">©copyright</p>
+              <img src="/michelin-star.png" alt="" style={{ height: "24px", width: "auto" }} />
             </div>
           </div>
         </div>
