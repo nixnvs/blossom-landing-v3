@@ -5,7 +5,7 @@ export default function Featured() {
     <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <Image
-          src="/images/alcazaba.jpeg"
+          src="/images/alcazaba.jpg"
           alt="Woman on horse in countryside"
           width={600}
           height={800}
