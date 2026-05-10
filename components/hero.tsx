@@ -30,9 +30,6 @@ export default function Hero() {
               A landing space for bold experiments, half-finished thoughts, and sparks of inspiration. Built to grow,
               adapt, and surprise—just like the projects you're about to launch.
             </p>
-            <button className="px-4 py-2 border-2 border-white bg-transparent text-white text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer">
-              GET STARTED
-            </button>
           </div>
         </div>
       </motion.div>
