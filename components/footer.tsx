@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function Footer() {
   return (
     <div
-      className="relative h-[400px] sm:h-[600px] lg:h-[800px] max-h-[800px]"
+      className="relative h-[400px] sm:h-[600px] lg:h-[800px] max-h-[800px] pt-24"
       style={{ clipPath: "polygon(0% 0, 100% 0%, 100% 100%, 0 100%)" }}
     >
       <div className="relative h-[calc(100vh+400px)] sm:h-[calc(100vh+600px)] lg:h-[calc(100vh+800px)] -top-[100vh]">
