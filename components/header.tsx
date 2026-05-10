@@ -43,7 +43,7 @@ export default function Header() {
             scrolled ? "text-[#48473F]" : "text-white"
           }`}
         >
-          RESERVAR UNA MESA
+          RESERVAR <span className="hidden sm:inline">UNA MESA</span>
         </button>
       </div>
     </header>
